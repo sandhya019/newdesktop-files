@@ -1,0 +1,20 @@
+https://rnavagamuwa.com/open-source/generate-client-side-code-using-swagger-codegen/
+
+
+https://www.baeldung.com/spring-boot-rest-client-swagger-codegen
+
+
+https://github.com/swagger-api/swagger-codegen/tree/master/modules/swagger-codegen-maven-plugin#usage
+
+jar file download:
+https://search.maven.org/classic/#search%7Cga%7C1%7Cg%3A%22io.swagger%22%20AND%20a%3A%22swagger-codegen-cli%22
+
+swagger codegen:
+https://github.com/swagger-api/swagger-codegen
+
+https://swagger.io/docs/open-source-tools/swagger-codegen/
+
+https://stackoverflow.com/questions/49384545/how-to-generate-client-code-using-with-swagger-codegen-plugin-maven
+
+https://github.com/thomasJoei/swagger-codegen-springboot
+

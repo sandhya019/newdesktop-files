@@ -1,0 +1,9 @@
+Skillport library for beginners in AI
+   	Introduction to Artificial Intelligence
+	Machine Learning
+	Expert Speak - Deep Learning with Theano
+	MyLearning Title - Introduction to Automation
+	Expert Speak - Robotic Process Automation for businesses
+	Expert Speak - AI for enterprises
+
+https://talent.capgemini.com/university/pages/learners_corner/insights_and_data_ai_academy/recommended_learning_resources/

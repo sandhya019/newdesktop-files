@@ -1,0 +1,30 @@
+
+Finally 3 tasks
+Jahnavi - Creating base deck based on Solvay with API governance and technology stack
+Chandu - Create 1 or 2 slides for data governance (which should not be repeated from existing) 
+Swathi , Sandhya and Chandu - come-up with 2 slides - which should convey how data fabric framework would help in automating the API development process  
+ 
+  
+https://stackoverflow.com/questions/8907543/n-layer-architecture 
+
+
+1. Client applications (Include mobile, desktops and another app with pic)
+ 
+
+2. API gateway layer
+2.1 Secuirty
+2.2 Caching 
+2.3 Anything else?
+3. API layer
+ 
+
+3.1 Orchestration station
+3.2 Business Logic (create something similar to  Data fabric, wit docker)
+3.3 Data storage
+3.4 Automation
+ 
+
+4. Data pus layer
+5. Legacy
+3.5 Analytics
+ 
